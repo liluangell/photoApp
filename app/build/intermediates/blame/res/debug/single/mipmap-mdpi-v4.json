@@ -2,9 +2,5 @@
     {
         "merged": "E:\\git\\photoApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
         "source": "E:\\git\\photoApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\AndroidStudioProjects\\ElaCameraAlp4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\AndroidStudioProjects\\ElaCameraAlp4\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]
